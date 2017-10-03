@@ -1,0 +1,12 @@
+<style>
+      h1{
+      	background-color: yellow;
+      	border-bottom: 1px blue solid;
+        background: url(http://htmlbook.ru/themes/hb/img/browser_ie.png) left center no-repeat yellow;
+        
+        padding-left: 20px;
+
+      }
+.in {border-bottom: 1px solid red}
+
+      </style>
